@@ -3,8 +3,10 @@ CYBER LABS
 
 
 MACHINE LEARNING BOOTCAMP
+
+((The code which has similar name to these correspond to the respective code))
 I have implemented the algorithms of:
-1.	Linear regression
+1.	Linear regression      
 2.	Polynomial regression
 3.	Logistic regression
 4.	KNN
