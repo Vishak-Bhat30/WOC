@@ -52,7 +52,7 @@ For local deployment, you'll need access to several services. Follow the instruc
 
 For the above services, please send a message on the `#ml-platform-users` Slack channel:
 #### Sample Message
-<Hi @ml-platform, I've newly joined the @luxury-ml team. Could you please give me access to:
+`Hi @ml-platform, I've newly joined the @luxury-ml team. Could you please give me access to:
 Helpjuice - ML Platform
 Dashboard - ML Platform
 GitHub - ML Platform
@@ -61,7 +61,7 @@ Anyscale Dev Services
 Anyscale Prod Services
 AWS User Credentials
 AWS S3 Buckets
-Notion (Azure Onboarding)>
+Notion (Azure Onboarding)`
 
 - HashiCorp Cloud account
 For access to the HashiCorp Cloud account, please reach out to the Luxury ML team directly.
