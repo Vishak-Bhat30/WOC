@@ -35,3 +35,33 @@ Learnt a new tern called wcss which stands for within the cluster sum of squares
 NN: In this code I have implemented 2 layer neural network algorithm. For the classification part did the forward propagation and did to get the gradient use the backward propagation. The units inside the hidden layer I took it as 2/3 of the input layer.
 
 Did complete vectorised implementation.
+
+## New Onboarding Permissions
+
+For local deployment, you'll need access to several services. Follow the instructions below to request access.
+
+- Helpjuice - ML Platform
+- Dashboard - ML Platform
+- GitHub - ML Platform
+- Superset - ML Platform
+- Anyscale Dev Services
+- Anyscale Prod Services
+- AWS User Credentials
+- AWS S3 Buckets
+- Notion (Azure Onboarding)
+
+For the above services, please send a message on the `#ml-platform-users` Slack channel:
+#### Sample Message
+<Hi @ml-platform, I've newly joined the @luxury-ml team. Could you please give me access to:
+Helpjuice - ML Platform
+Dashboard - ML Platform
+GitHub - ML Platform
+Superset - ML Platform
+Anyscale Dev Services
+Anyscale Prod Services
+AWS User Credentials
+AWS S3 Buckets
+Notion (Azure Onboarding)>
+
+- HashiCorp Cloud account
+For access to the HashiCorp Cloud account, please reach out to the Luxury ML team directly.
